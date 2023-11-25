@@ -1,5 +1,3 @@
-# Shaelyn Britney
-# CIS 261
 # TemperatureConversion
 
 def to_celsius(fahrenheit):
